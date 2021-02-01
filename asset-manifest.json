@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AI-news-app/static/css/main.044105e6.chunk.css",
+    "main.js": "/AI-news-app/static/js/main.aafe3069.chunk.js",
+    "main.js.map": "/AI-news-app/static/js/main.aafe3069.chunk.js.map",
+    "runtime-main.js": "/AI-news-app/static/js/runtime-main.94c0f564.js",
+    "runtime-main.js.map": "/AI-news-app/static/js/runtime-main.94c0f564.js.map",
+    "static/js/2.bd8c9b31.chunk.js": "/AI-news-app/static/js/2.bd8c9b31.chunk.js",
+    "static/js/2.bd8c9b31.chunk.js.map": "/AI-news-app/static/js/2.bd8c9b31.chunk.js.map",
+    "index.html": "/AI-news-app/index.html",
+    "static/css/main.044105e6.chunk.css.map": "/AI-news-app/static/css/main.044105e6.chunk.css.map",
+    "static/js/2.bd8c9b31.chunk.js.LICENSE.txt": "/AI-news-app/static/js/2.bd8c9b31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94c0f564.js",
+    "static/js/2.bd8c9b31.chunk.js",
+    "static/css/main.044105e6.chunk.css",
+    "static/js/main.aafe3069.chunk.js"
+  ]
+}
