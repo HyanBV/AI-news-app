@@ -1,3 +1,3 @@
 # AI-news-app
 
-Used ReactJS on this project
+Used ReactJS, and Alan API on this project!
